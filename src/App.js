@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          IPFS Tutorial
+          IPFS Tutorial Change Test
         </p>
       </header>
     </div>
